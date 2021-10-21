@@ -1,0 +1,14 @@
+D:\LearningApp\CourseDetailsListener\bin\Debug\ReportService.deps.json
+D:\LearningApp\CourseDetailsListener\bin\Debug\ReportService.runtimeconfig.json
+D:\LearningApp\CourseDetailsListener\bin\Debug\ReportService.runtimeconfig.dev.json
+D:\LearningApp\CourseDetailsListener\bin\Debug\appsettings.Development.json
+D:\LearningApp\CourseDetailsListener\bin\Debug\appsettings.json
+D:\LearningApp\CourseDetailsListener\bin\Debug\ReportService.exe
+D:\LearningApp\CourseDetailsListener\bin\Debug\ReportService.dll
+D:\LearningApp\CourseDetailsListener\bin\Debug\Plain.RabbitMQ.dll
+D:\LearningApp\CourseDetailsListener\bin\Debug\RabbitMQ.Client.dll
+D:\LearningApp\CourseDetailsListener\bin\Debug\System.Threading.Channels.dll
+D:\LearningApp\CourseDetailsListener\bin\Debug\ReportService.pdb
+D:\LearningApp\CourseDetailsListener\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\LearningApp\CourseDetailsListener\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\LearningApp\CourseDetailsListener\bin\Debug\StudentOrderService.dll

@@ -1,0 +1,6 @@
+D:\LearningApp\CourseDetailsListener\obj\Debug\netcoreapp3.1\StudentOrderService.csproj.AssemblyReference.cache
+D:\LearningApp\CourseDetailsListener\obj\Debug\netcoreapp3.1\StudentOrderService.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningApp\CourseDetailsListener\obj\Debug\netcoreapp3.1\StudentOrderService.AssemblyInfoInputs.cache
+D:\LearningApp\CourseDetailsListener\obj\Debug\netcoreapp3.1\StudentOrderService.AssemblyInfo.cs
+D:\LearningApp\CourseDetailsListener\obj\Debug\netcoreapp3.1\StudentOrderService.csproj.CoreCompileInputs.cache
+D:\LearningApp\CourseDetailsListener\obj\Debug\netcoreapp3.1\StudentOrderService.MvcApplicationPartsAssemblyInfo.cache
